@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  開発project
 //
-//  Created by 岩崎勇太 on 2021/04/15.
+//  Created by on 2021/04/15.
 //
 
 import UIKit

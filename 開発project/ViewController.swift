@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  開発project
 //
-//  Created by IwasakiYuta on 2021/04/15.
+//  Created by on 2021/04/15.
 //
 
 import UIKit
